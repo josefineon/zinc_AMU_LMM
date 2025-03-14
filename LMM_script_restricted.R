@@ -1,9 +1,7 @@
 
 
 # This script is provided in relation to the data analysis described in Section 2.5 of the Methods section of the article:
-#
 # Title: The effect of the discontinued use of zinc oxide on antimicrobial usage in Danish pig farms
-# Published in: Preventive Veterinary Medicine
 #
 # The primary objective of the analysis, described in the article,
 # was to quantify the effect of the nationwide ban on zinc oxide usage, 
