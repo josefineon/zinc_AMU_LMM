@@ -7,6 +7,10 @@
 # was to quantify the effect of the nationwide ban on zinc oxide usage, 
 # as well as the influence of individual farms and veterinarians, on farm-level AMU.
 #
+# Using pig-farm and prescription data from 2018 to 2023 from Danish national databases, 
+# we fitted a linear mixed-effect model to a three-level nested dataset, consisting of 
+# monthly average standardized AMU (Defined Animal Daily Doses per pig-day), on a farm (n=4,020), overseen by a veterinarian (n=146).
+#
 # The script is shared to facilitate transparency, ensure reproducibility, and make the methodology accessible.
 #
 # The data provided with this script has been anonymized to ensure compliance with the General Data Protection Regulation (GDPR).
