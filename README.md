@@ -10,6 +10,4 @@ The data provided with this script has been anonymized to ensure compliance with
 
 While the results from this version may not match exactly with those in the article, due to the removal of structural fixed effects from the linear mixed-effects model, the script remains consistent with the methodology outlined in the article.
 
-Generative AI tools have been applied in the development of this script.
-
 For any questions, please contact Josefine Ostenfeld Nielsen (josos@dtu.dk).
